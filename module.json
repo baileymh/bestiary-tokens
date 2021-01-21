@@ -1,0 +1,11 @@
+{   
+   "name": "bestiary-tokens",   
+   "title": "Bestiary 1-6 Tokens",   
+   "description": "Tokens and portraits for Bestiaries 1-6, located in modules/bestiary-tokens/.
+   Suggested to use Compendium Image Mapper.",   
+   "author": "Michael",
+   "version": "1.0.0",
+   "minimumCoreVersion": "1.0.0",
+   "compatibleCoreVersion":"1.0.0",
+   "packs": []
+ }
